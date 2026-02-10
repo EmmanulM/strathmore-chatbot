@@ -1,0 +1,23 @@
+[33mcommit a3962074330ee67a139fc2459e8bc1589997608f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: itamala <cosma2itamal4@gmail.com>
+Date:   Tue Feb 10 16:20:08 2026 +0300
+
+    Remove secret key and add to .gitignore
+
+[33mcommit dcaa13dc4ad8a4096e83e974ba307837717dc983[m
+Author: itamala <cosma2itamal4@gmail.com>
+Date:   Tue Feb 10 15:04:29 2026 +0300
+
+    Remove API keys and ignore env files
+
+[33mcommit 2b7c168a2d4999ba6664c102e1148c8217f3b536[m
+Author: itamala <cosma2itamal4@gmail.com>
+Date:   Tue Feb 10 14:59:03 2026 +0300
+
+    Remove API keys and ignore env files
+
+[33mcommit f18491ac09f456664c5495432f36bf4ab3a22730[m
+Author: itamala <cosma2itamal4@gmail.com>
+Date:   Tue Feb 10 14:33:24 2026 +0300
+
+    Initial Strathmore chatbot
